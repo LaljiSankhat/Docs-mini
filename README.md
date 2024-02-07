@@ -1,5 +1,7 @@
 # React + Vite
 
+This is Animated web page using React and Framer motion.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
